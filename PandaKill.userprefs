@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Lobby\PandaNetworkManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\States\Playing\Players\PlayerState.cs" Line="589" Column="34" />
+      <File FileName="Assets\Scripts\Server\ServerManager.cs" Line="173" Column="6" />
+      <File FileName="Assets\Scripts\Client\uPomelos.cs" Line="167" Column="1" />
+      <File FileName="Assets\Scripts\Server\GameManager.cs" Line="155" Column="6" />
+      <File FileName="Assets\Scripts\States\Playing\Misc\MiscState.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Lobby\LobbyRoomSetting.cs" Line="64" Column="41" />
+      <File FileName="Assets\Scripts\Lobby\PandaNetworkManager.cs" Line="238" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\Grapes\Unity\PandaKill\Assets\Scripts\StateManager.cs" line="18" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

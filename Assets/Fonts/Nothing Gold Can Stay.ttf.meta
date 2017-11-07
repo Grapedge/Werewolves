@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5ec1fec165e04be428398825267741e9
+timeCreated: 1510060164
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Red Circle
+  fontNames:
+  - Red Circle
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
